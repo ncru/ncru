@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ncru
-- 👋 Hi, I’m @ncru
-- 👋 Hi, I’m @ncru
-- 👋 Hi, I’m @ncru
-- 👋 Hi, I’m @ncru
+# 👋 Hi, I am ncru.
+
+You have reached the Github profile of **Kent Nicholson R. Cruda.**
+
+Here you can find finished projects and current ones that I have been working on.
 
 <!---
 ncru/ncru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
